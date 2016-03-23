@@ -20,8 +20,8 @@
   "author": "Azer Koçulu <azer@kodfabrik.com>",
   "license": "BSD",
   "dependencies": {
-    "show-help": "2.x",
-    "show-version": "1.x",
+    "show-help": "azer/show-help",
+    "show-version": "azer/show-version",
     "minimist": "0.0.x"
   }
 }
